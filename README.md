@@ -1,6 +1,6 @@
 # Ritesh Ramchandra Patil
 
-- 📍 **Location:** Kolhapur, Maharashtra, India
+- Kolhapur, Maharashtra, India
 - 📧 **Email:** riteshpatil6569@gmail.com
 - 📞 **Phone:** +919075406569
 
