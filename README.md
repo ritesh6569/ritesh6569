@@ -16,9 +16,9 @@
 
 ## Technical Skills
 
-- 💻 **Programming Languages:** C | C++ | Java | JavaScript | SQL
-- 🌐 **Web Development:**  HTML | CSS | React | Node.js | Express.js | MySQL | MongoDB | Postgres SQL
-- 📚 **CS Fundamentals:** DSA | OOPs | DBMS | Computer Network
+- 💻 **Programming Languages:** C | C++ | JavaScript | SQL
+- 🌐 **Web Development:**  HTML | CSS | React | Node.js | Express.js | MySQL | MongoDB 
+- 📚 **CS Fundamentals:** DSA | OOPs | DBMS | OS
 
 ## Interests
 
